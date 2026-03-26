@@ -5,8 +5,7 @@ function App() {
   return (
     <>
       <div className='w-full h-auto flex flex-col justify-center items-center bg-zinc-100'>
-        {/* <Counter /> */}
-        <h1>Hello</h1>
+        <Counter />
       </div>
     </>
   )
